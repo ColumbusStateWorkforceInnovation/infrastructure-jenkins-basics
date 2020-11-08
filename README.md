@@ -79,8 +79,7 @@ Note that you should change this to be your github repo url before finally pushi
 
 1. Publish your repository as a private repo, and ensure that you have pushed the latest version (and the latest tag!)
 1. Open a pull request from develop to master
-1. Submit the assignment in Blackboard as described in [these instructions](https://github.com/jschmersal-cscc/lab0-completing-and-submitting-assignments#once-your-pull-request-is-reviewed-and-approved)
-
+1. Submit the assignment in Blackboard 
 __NOTE: I will provide feedback via. comments in your pull request.__
 If you need to amend your work after you issue your initial pull request:
 
