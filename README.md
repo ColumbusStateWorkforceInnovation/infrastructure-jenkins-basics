@@ -80,14 +80,14 @@ Note that you should change this to be your github repo url before finally pushi
 ## Submitting Your Work
 
 1. Publish your repository as a private repo, and ensure that you have pushed the latest version (and the latest tag!)
-1. Open a pull request from develop to master
-1. Submit the assignment in Blackboard 
-__NOTE: I will provide feedback via. comments in your pull request.__
+1. Submit the assignment in Blackboard with the link to your repo, please be sure your repo is tagged
+__NOTE: I will provide feedback via. comments in Blackboard.__
 If you need to amend your work after you issue your initial pull request:
 
 1. Commit your updates
 1. Push your changes to gitHub
-1. Verify the new commits were automatically added to your open pull request
+1. Update the tag to the next minor version (1.5, 1.6, etc)
+1. Resubmit in Blackboard
 
 ## Maven Pipeline Build Snippet
 Here is a snippet that will be useful to include in your pipeline.  The "build" stage should include something similar to this: 
