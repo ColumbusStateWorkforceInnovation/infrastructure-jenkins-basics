@@ -13,7 +13,7 @@ as code.  You will write pipeline jobs using the Groovy DSL and create those job
 
 ## Getting Started:
 
-1. Copy the starter code from here into a new, private repository in your personal GitHub account using [these instructions](https://github.com/jschmersal-cscc/lab0-completing-and-submitting-assignments) substituting this repository URL ``https://github.com/cscc-luke-rouker/Unit9GitHubJenkinsLab`` for the one referenced in that document.  When adding a collaborator, be sure to add me ("cscc-luke-rouker").
+1. Copy the starter code from here into a new, private repository in your personal GitHub account. When adding a collaborator, be sure to add me ("cscc-luke-rouker").
 
 ## Understanding the Starter Code
 This repository contains all you need to have a fully dockerized Jenkins that supports a DSL seed job and 
@@ -40,7 +40,7 @@ Fill in the Dockerfile as guided by the comments in the file.  When you have com
 
 Tag the repository as 1.1 and push the tag before moving on to part B 
 
-### Part B – Building a Jenkins job | Working with Git Flow: 
+### Part B – Building a Jenkins job | Working with Git Flow (kinda): 
 
 Start with the repository from Part A, with any outstanding branches merged to master.   
 
