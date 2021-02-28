@@ -1,0 +1,8 @@
+Question 1:  Review the Dockerfile in your repo at docker/Dockerfile and related files in the docker directory.  In particular, review the plugins we have installed into this image.  What plugins / applications do you recognize?  Which ones do you think would be most useful when setting up a CI/CD pipeline?
+Answer:  
+
+Question 2:  What do you think are some advantages of running a dockerized Jenkins?  How would it differ to install Jenkins directly on a host?
+Answer:
+
+Question 3:  Based on the behavior you have seen exploring Jenkins' administrative console and your experience setting up Jenkins on your VM, what are two ways to add a plugin to your Jenkins instance?
+Answer:  
