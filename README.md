@@ -24,10 +24,10 @@ You are provided with a [build-jenkins-image.sh](build-jenkins-image.sh) script 
 1. The `Dockerfile` references [plugins.txt](docker/plugins.txt).  This text file simply contains a list of Jenkins plugins we wish to be installed as part of the image build.  Note that there are more plugins listed than necessary, but it gives you a flavor of the rich plugin environment that Jenkins supports.
 
 #### The Provided Source Code
-The source code for this project in ex03 is incredibly simple.  It's a simple shell script that you will invoke from your freshly built Jenkins job.  We will see more about how Jenkins can be confired as code and how we can build more complex projects in next week's lab.
+The source code for this project in ex03 is incredibly simple.  It's a simple shell script that you will invoke from your freshly built Jenkins job.  We will see more about how Jenkins can be configured as code and how we can build more complex projects in next week's lab.
 
 ## Completing the Assignment
-See ex01/Readme.md, ex02/Readme.md, and ex03/Readme.md for details on completing the assignment.  In each repo, there will be activities for you to perform in Jenkins and a worksheet to complete to demonstrate that you have performed the appropriate activities.  There will be no code changes for this lab since we will be working primarily with the UI to gain basic understanding of Jenkins, but you should still submit your worksheet answers as a pull request in GitHub.
+See [ex01/Readme.md](ex01/Readme.md) and [ex02/Readme.md](ex02/Readme.md) for details on completing the assignment.  In each repo, there will be activities for you to perform in Jenkins and a worksheet to complete to demonstrate that you have performed the appropriate activities.  There will be no code changes for this lab since we will be working primarily with the UI to gain basic understanding of Jenkins, but you should still submit your worksheet answers as a pull request in GitHub.
 
 ## Hints
 1. We've created a [run-jenkins.sh](run-jenkins.sh) script that will start up jenkins for you if you'd like.  You can view your Jenkins by opening Firefox within your workspace to [http://localhost:8080](http://localhost:8080).
