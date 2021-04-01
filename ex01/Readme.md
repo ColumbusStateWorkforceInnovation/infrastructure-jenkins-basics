@@ -1,7 +1,7 @@
 For this exercise, we will set up your dockerized Jenkins and explore the Jenkins UI.
 
 * To begin, clone your private repo to your VM if you haven't already.
-* From the root of that repository, run ./build-jenkins-image.sh.  This will create an image built on the base cscc Jenkins docker image which contains the plugins you will need for this lab and the next lab.
+* From the root of that repository, run `./build-jenkins-image.sh.`  This will create an image built on the base cscc Jenkins docker image which contains the plugins you will need for this lab and the next lab.
 
 **Question 1 (Provide your answers in ex01Questions.txt)**:
 
