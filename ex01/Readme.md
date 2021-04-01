@@ -11,14 +11,14 @@ Review the Dockerfile in your repo at docker/Dockerfile and related files in the
 
 What do you think are some advantages of running a dockerized Jenkins?  How would it differ to install Jenkins directly on a host?
 
-* Now, run ./run-jenkins.sh.  
+* Now, run `./run-jenkins.sh`.  
 * Leave your terminal running and open a browser.
-* Navigate to localhost:8080 to view Jenkins.  This is the screen you would use to manage Jenkins at a platform level.  We will explore this area briefly before building our first job.
+* Navigate to `localhost:8080` to view Jenkins.  This is the screen you would use to manage Jenkins at a platform level.  We will explore this area briefly before building our first job.
 * Clicking "People" will show you all users on the Jenkins system. 
 * Clicking "Build History" will show all the jobs that have been run on this system (since you haven't run any jobs yet, this will be empty)
 * Click on "Manage Jenkins".  You'll likely see deprecation or vulnerability warnings, don't worry about those in the educational environment.
 * Here, you can browse the administrator-level settings and configurations available in Jenkins.
-* You can navigate back to the Jenkins home screen by navigating back to localhost:8080 or by clicking the Jenkins logo in the upper left corner.
+* You can navigate back to the Jenkins home screen by navigating back to `localhost:8080` or by clicking the Jenkins logo in the upper left corner.
 * One more thing before we get to building, click on the ? icon in the search bar in the upper left of the screen.  This will take you to Jenkins documentation (jenkins.io).  This is a convenient way to access the documentation as you are using the tool
 
 **Question 3**:
