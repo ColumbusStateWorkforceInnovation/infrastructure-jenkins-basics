@@ -10,7 +10,7 @@ For this lab, you will gain hands-on experience using a dockerized Jenkins insta
 
 ## Getting Started:
 
-1. Copy the starter code from here into a new, private repository in your personal GitHub account. When adding a collaborator, be sure to add me ("cscc-luke-rouker").
+1. Copy the starter code from here into a new, private repository in your personal GitHub account. When adding a collaborator, be sure to add the instructor ("CSCC-Instructor").
 
 ## Understanding the Starter Code
 This repository contains all you need to have a fully dockerized Jenkins and 
