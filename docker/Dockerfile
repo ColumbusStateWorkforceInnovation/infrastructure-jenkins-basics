@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:lts
+FROM jenkins/jenkins:latest-jdk11
 
 # This is the directory jenkins uses for most of its configuration
 ENV JENKINS_HOME=/usr/share/jenkins/ref
